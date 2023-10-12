@@ -1,0 +1,26 @@
+D:\LapTrinhWindow\LyThuyet\DoAn_CuoiKy\DoAn_CuoiKy\bin\Debug\DoAn_CuoiKy.exe.config
+D:\LapTrinhWindow\LyThuyet\DoAn_CuoiKy\DoAn_CuoiKy\bin\Debug\DoAn_CuoiKy.exe
+D:\LapTrinhWindow\LyThuyet\DoAn_CuoiKy\DoAn_CuoiKy\bin\Debug\DoAn_CuoiKy.pdb
+D:\LapTrinhWindow\LyThuyet\DoAn_CuoiKy\DoAn_CuoiKy\obj\Debug\DoAn_CuoiKy.csproj.AssemblyReference.cache
+D:\LapTrinhWindow\LyThuyet\DoAn_CuoiKy\DoAn_CuoiKy\obj\Debug\DoAn_CuoiKy.Properties.Resources.resources
+D:\LapTrinhWindow\LyThuyet\DoAn_CuoiKy\DoAn_CuoiKy\obj\Debug\DoAn_CuoiKy.csproj.GenerateResource.cache
+D:\LapTrinhWindow\LyThuyet\DoAn_CuoiKy\DoAn_CuoiKy\obj\Debug\DoAn_CuoiKy.csproj.CoreCompileInputs.cache
+D:\LapTrinhWindow\LyThuyet\DoAn_CuoiKy\DoAn_CuoiKy\obj\Debug\DoAn_CuoiKy.exe
+D:\LapTrinhWindow\LyThuyet\DoAn_CuoiKy\DoAn_CuoiKy\obj\Debug\DoAn_CuoiKy.pdb
+D:\LapTrinhWindow\LyThuyet\DoAn_CuoiKy\DoAn_CuoiKy\obj\Debug\DoAn_CuoiKy.frmHeThong.resources
+D:\Quản lý phòng trọ\DoAn_CuoiKy\DoAn_CuoiKy\bin\Debug\DoAn_CuoiKy.exe.config
+D:\Quản lý phòng trọ\DoAn_CuoiKy\DoAn_CuoiKy\bin\Debug\DoAn_CuoiKy.exe
+D:\Quản lý phòng trọ\DoAn_CuoiKy\DoAn_CuoiKy\bin\Debug\DoAn_CuoiKy.pdb
+D:\Quản lý phòng trọ\DoAn_CuoiKy\DoAn_CuoiKy\obj\Debug\DoAn_CuoiKy.csproj.AssemblyReference.cache
+D:\Quản lý phòng trọ\DoAn_CuoiKy\DoAn_CuoiKy\obj\Debug\DoAn_CuoiKy.frmHeThong.resources
+D:\Quản lý phòng trọ\DoAn_CuoiKy\DoAn_CuoiKy\obj\Debug\DoAn_CuoiKy.Properties.Resources.resources
+D:\Quản lý phòng trọ\DoAn_CuoiKy\DoAn_CuoiKy\obj\Debug\DoAn_CuoiKy.csproj.GenerateResource.cache
+D:\Quản lý phòng trọ\DoAn_CuoiKy\DoAn_CuoiKy\obj\Debug\DoAn_CuoiKy.csproj.CoreCompileInputs.cache
+D:\Quản lý phòng trọ\DoAn_CuoiKy\DoAn_CuoiKy\obj\Debug\DoAn_CuoiKy.exe
+D:\Quản lý phòng trọ\DoAn_CuoiKy\DoAn_CuoiKy\obj\Debug\DoAn_CuoiKy.pdb
+D:\Quản lý phòng trọ\DoAn_CuoiKy\DoAn_CuoiKy\bin\Debug\EntityFramework.dll
+D:\Quản lý phòng trọ\DoAn_CuoiKy\DoAn_CuoiKy\bin\Debug\EntityFramework.SqlServer.dll
+D:\Quản lý phòng trọ\DoAn_CuoiKy\DoAn_CuoiKy\bin\Debug\EntityFramework.xml
+D:\Quản lý phòng trọ\DoAn_CuoiKy\DoAn_CuoiKy\bin\Debug\EntityFramework.SqlServer.xml
+D:\Quản lý phòng trọ\DoAn_CuoiKy\DoAn_CuoiKy\obj\Debug\DoAn_CuoiKy.csproj.CopyComplete
+D:\Quản lý phòng trọ\DoAn_CuoiKy\DoAn_CuoiKy\obj\Debug\DoAn_CuoiKy.frmPhanBoThietBi.resources
